@@ -7,43 +7,44 @@ Let's fix our broken synth!
 
 ## Issue Tracking 🐕
 
--We'll use issue tracking to document the steps that need to be taken
+### We'll use issue tracking to document the steps that need to be taken
  - Keep issues small!
   - Roadmap will be on the README
   - Link any relevant cases in the comments
  - Document your steps!
  - Create a new issue any time you reach a roadblock
 
-######Something you did on your journey could be a piece of the puzzle to someone else
+###### Something you did on your journey could be a piece of the puzzle to someone else
 If it's an issue marked "solved" they're more likely to see it.
 
 ---
 
-## ❗️DO NOT share proprietary code here, but do tell us how you got to it
+## ❗️DO NOT share proprietary code here❗️
+but do tell us how one would access it
 
 ---
 	
 _This is a README seed._ I'm not sure how we want to set the roadmap up yet (might even go to Wiki)
 This is just a quick brain dump
 
-######Want to add something? I accept PRs or ping me on Discord
+###### Want to add something? I accept PRs or ping me on Discord
 
 ---
 
-#Access has left the chat:
+## Access has left the chat:
 
 - USB to VST no worky
 - USB to AUDIO no worky
 - Does the VST still load?
 
-#Roadblocks:
+## Roadblocks:
 
 - it's possible big sur kernel extensions are no longer a thing:
  - (info maybe: https://support.apple.com/en-us/HT211860)
 
 - the 32 bit audio driver
 
-#Possible paths:
+## Possible paths:
 
 - SimpleVirus USBdriver
  - what is this, is it open source?
