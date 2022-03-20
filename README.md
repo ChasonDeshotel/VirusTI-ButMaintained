@@ -5,7 +5,7 @@ Let's fix our broken synth!
 
 ---
 
-## ~~Jira~~ Issue Tracking 🐕
+## Issue Tracking 🐕
 
 -We'll use issue tracking to document the steps that need to be taken
  - Keep issues small!
