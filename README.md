@@ -52,7 +52,7 @@ This is just a quick brain dump
 - Add the module into the kernel with OpenCore
  - is this the audio driver? 
  - This may help some people
- - Hasn't Core Audio gone away?
+ - Hasn't Core Audio gone away? edit: HAL API has gone away, drivers must use CoreAudio API which Polytech driver does not
   - Are there developer docs on how to update your apps?
 
 - talk to the audio plugin company... get hired on contract, sign nda, no-compete, offer for free if we can open source any small component of it
